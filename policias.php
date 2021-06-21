@@ -426,14 +426,14 @@ $estatus=$pregunta[0]["estatus"];
 
 
 
-<b>Enviar en físico a:<b>
+<b>Enviar en físico a: ok<b>
   <ul>
    <li>
      Dirección física: General Prim #21, Colonia Centro, CP. 06000, CDMX.
    </li>
  </ul>
 
-<b>O por correo electrónico a:<b>  
+<b>O por correo electrónico a:<b>
   <ul>
    <li>
      Dirección electrónica: sistemadejusticia@segob.gob.mx.
