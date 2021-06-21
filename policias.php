@@ -206,7 +206,7 @@ $estatus=$pregunta[0]["estatus"];
                                                 id="area" class="form-control" value="<?php echo $area; ?>">
                                         <label>    Correo electrónico:</label><input type="text" name="mail" id="mail"
                                           <?php if($estatus != 0) { echo "disabled='true'"; } ?>
-                                                class="form-control" value="<?php echo $mail; ?>">
+                                                  class="form-control" value="<?php echo $mail; ?>">
                                             <label>  Teléfono de oficina:</label><input type="text" name="telofi"
                                             <?php if($estatus != 0) { echo "disabled='true'"; } ?>
                                                 id="telofi" class="form-control" value="<?php echo $telofi; ?>">
@@ -433,7 +433,7 @@ $estatus=$pregunta[0]["estatus"];
    </li>
  </ul>
 
-<b>O por correo electrónico a:<b>
+<b>O por correo electrónico a:<b>  
   <ul>
    <li>
      Dirección electrónica: sistemadejusticia@segob.gob.mx.
