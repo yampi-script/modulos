@@ -426,7 +426,7 @@ $estatus=$pregunta[0]["estatus"];
 
 
 
-<b>Enviar en físico a: ok<b>
+<b>Enviar en físico a:<b>
   <ul>
    <li>
      Dirección física: General Prim #21, Colonia Centro, CP. 06000, CDMX.
